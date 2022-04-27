@@ -1,10 +1,10 @@
-![I am Jahid Hasan Rony](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am jahidrony037](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Jahid Hasan Rony</h1>
 <h3 align="center">FRONT END DEVLOPER</h3>
 
-![Profile views](https://gpvc.arturio.dev/harun181) 
+![Profile views](https://gpvc.arturio.dev/jahidrony037) 
 
 Welcome to my GitHub profile. I am a Front End Developer and Web Devloper. 
 Knock me: m.facebook.com/jahidrony037.qcsc
