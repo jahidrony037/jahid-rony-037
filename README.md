@@ -9,7 +9,7 @@
 Welcome to my GitHub profile. I am a Front End Developer and Web Devloper. 
 Knock me: m.facebook.com/jahidrony037.qcsc
 
-Skills: C / BOOTSTRAP / C++ / REACT / JS / HTML / CSS
+Skills: C / BOOTSTRAP / C++ / REACT / JS / HTML / CSS/ Tailwind CSS
  
 
 - 🌱 I’m currently learning **JS, Node js, React**
