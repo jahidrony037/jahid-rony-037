@@ -1,6 +1,13 @@
 ![Header](./github-header-image.png)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jahidrony037&label=Profile%20views&color=0e75b6&style=flat" alt="jahidrony" /> </p>
 
+## :chart_with_upwards_trend: Current Stats
 
+<br />
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=jahidrony037&theme=react" />
+</p>
+[![GitHub Streak]("https://streak-stats.demolab.com?user=jahidrony037&theme=react")]("https://git.io/streak-stats")
 
 
 ![Profile views](https://gpvc.arturio.dev/jahidrony037) 
@@ -47,5 +54,9 @@ Skills: C / BOOTSTRAP / C++ / REACT / JS / HTML / CSS/ Tailwind CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidrony037)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahidrony037&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jahidrony037)  
+![GitHub streak stats](https://github-readme-streak-stats.app.vercel.com/?user=jahidrony037)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jahidrony037)  
+
+
+
+
