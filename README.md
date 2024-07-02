@@ -1,8 +1,7 @@
 ![Header](./github-header-image.png)
 
 
-<h1 align="center">Hi 👋, I'm Jahid Hasan Rony</h1>
-<h3 align="center">FRONT END DEVLOPER</h3>
+
 
 ![Profile views](https://gpvc.arturio.dev/jahidrony037) 
 
