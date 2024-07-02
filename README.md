@@ -1,12 +1,13 @@
 ![Header](./github-header-image.png)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jahidrony037&label=Profile%20views&color=0e75b6&style=flat" alt="jahidrony" /> </p>
 
-## :eyes: Current overview
+## :eyes: About Me
 
 ### 🔭 I’m working - MediDX Client Web App. 
 ### 🌱 I’m learning - Next JS, SQL. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
+### 👯 I’m looking - To collaborate on open source projects.
+### 💬 Ask me about - React JS, JavaScript.
+### ⚡ Fun fact - I am Funny.
 
 <br/>
 
@@ -51,16 +52,6 @@
 </p><br/>
 
 
-## :chart_with_upwards_trend: Language Stats
-
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidrony037&theme=react&show_icons=true&hide_border=true&layout=compact" alt="jahidrony037's GitHub Stats" />
-</p>
-
-
-
-
 
 ## :chart_with_upwards_trend: Daily Streak
 
@@ -78,6 +69,10 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jahidrony037&theme=react&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidrony037&theme=react&show_icons=true&hide_border=true&layout=compact" alt="jahidrony037's GitHub Stats" />
+</p>
 <br/>
 <br/>
 
