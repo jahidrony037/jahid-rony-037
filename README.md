@@ -1,4 +1,4 @@
-![I am jahidrony037](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Header](./github-header-image.png)
 
 
 <h1 align="center">Hi 👋, I'm Jahid Hasan Rony</h1>
